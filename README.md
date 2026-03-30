@@ -3,9 +3,6 @@
 ## 👋 Hello World, I'm Kamiliya!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7D000&height=120&section=header"/>
-</p>
-<p align="center">
   <img src="kamiliya-github-banner.jpg" />
 </p>
 <p align="center">
