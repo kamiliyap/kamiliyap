@@ -1,10 +1,9 @@
-
-
 ## 👋 Hello World, I'm Kamiliya!
 
 <p align="center">
   <img src="kamiliya-github-banner.jpg" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Junior+Fullstack+Developer;Laravel+%7C+React.js;PHP+Native+Enthusiast🚀">
 </p>
@@ -40,6 +39,14 @@
 
 ---
 
+### 🤖 AI Tools I Use
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-8A2BE2?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-111111?logo=openai&logoColor=white" />
+</p>
+
+---
+
 ### 🚀 Featured Projects
 🔹 **Project Laravel App**  
 👉 https://github.com/kamiliyap/project-1  
@@ -49,8 +56,6 @@
 
 🔹 **React Frontend App**  
 👉 https://github.com/kamiliyap/project-2  
-
-
 
 ---
 
